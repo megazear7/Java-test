@@ -1,0 +1,20 @@
+INDEX VERSION 1.126+/home/alex/src/megazear7/Java-test/.metadata/.plugins/org.eclipse.jdt.core
+460152253.index
+4029669656.index
+2598035366.index
+1609788100.index
+2895934474.index
+1791611979.index
+534805504.index
+3542660237.index
+1961235293.index
+3296295421.index
+1796941800.index
+1159935248.index
+1259291233.index
+2788752038.index
+1577797312.index
+2426646370.index
+1219062567.index
+1513993030.index
+3640646894.index
