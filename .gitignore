@@ -1,0 +1,2 @@
+# ignore java class files in the JavaPlain directory
+JavaPlain/*.class
