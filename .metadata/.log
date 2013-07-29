@@ -1,0 +1,39 @@
+!SESSION 2013-07-28 20:12:31.512 -----------------------------------------------
+eclipse.buildId=I20120502-2000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-07-28 20:12:37.078
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2013-07-28 20:25:13.683 -----------------------------------------------
+eclipse.buildId=I20120502-2000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.osgi 2 1 2013-07-28 20:26:50.557
+!MESSAGE NLS unused message: CacheManager_CannotLoadNonUrlLocation in: org.eclipse.equinox.internal.p2.repository.messages
+!SESSION 2013-07-28 20:27:08.073 -----------------------------------------------
+eclipse.buildId=I20120502-2000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY edu.umd.cs.findbugs.plugin.eclipse 1 0 2013-07-28 20:29:10.578
+!MESSAGE creating new bug collection: /home/alex/src/megazear7/Java-test/.metadata/.plugins/edu.umd.cs.findbugs.plugin.eclipse/SpaceCombat.fbwarnings
+
+!ENTRY edu.umd.cs.findbugs.plugin.eclipse 2 2 2013-07-28 20:32:30.044
+!MESSAGE The following classes needed for FindBugs analysis on project SpaceCombat were missing:
+!SUBENTRY 1 edu.umd.cs.findbugs.plugin.eclipse 2 0 2013-07-28 20:32:30.044
+!MESSAGE Action
+!SUBENTRY 1 edu.umd.cs.findbugs.plugin.eclipse 2 0 2013-07-28 20:32:30.044
+!MESSAGE Arguments
+
+!ENTRY edu.umd.cs.findbugs.plugin.eclipse 2 2 2013-07-28 20:35:22.882
+!MESSAGE The following classes needed for FindBugs analysis on project SpaceCombat were missing:
+!SUBENTRY 1 edu.umd.cs.findbugs.plugin.eclipse 2 0 2013-07-28 20:35:22.882
+!MESSAGE action

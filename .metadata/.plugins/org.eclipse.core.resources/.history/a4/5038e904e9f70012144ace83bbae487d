@@ -1,0 +1,26 @@
+import components.simplewriter.SimpleWriter;
+import components.simplewriter.SimpleWriter1L;
+public final class Utils {
+
+    private Utils() {
+    	// constructor
+    }
+    
+    public static Command stringToCommand(String command_str){
+    	Command command = new Command();
+    	
+    	int space = command_str.indexOf(" ");
+    	
+    	String = extracFirstWord(command_str);
+    	
+    	return command;
+    	
+    }
+
+    public static void main(String[] args) {
+        SimpleWriter out = new SimpleWriter1L();
+        out.println("Hello World!");
+        out.close();
+    }
+
+}

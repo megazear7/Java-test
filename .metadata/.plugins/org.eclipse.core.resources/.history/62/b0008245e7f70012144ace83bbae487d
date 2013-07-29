@@ -1,0 +1,43 @@
+import components.simplewriter.SimpleWriter;
+import components.simplewriter.SimpleWriter1L;
+public final class FullCommand {
+
+	Command command;
+	Action action;
+	Argument argument;
+	
+    private FullCommand() {
+    	// constructor
+    }
+
+    public void setCommand(Command command){
+    	this.command = command;
+    }
+
+    public void setAction(Action action){
+    	this.action = action;
+    }
+
+    public void argument(Argument argument){
+    	this.argument = argument;
+    }   
+
+    public Command command_type(){
+    	return this.command;
+    }
+
+    public Action action_type(){
+    	return this.action;
+    }
+
+    public Argument argument_type(){
+    	return this.argument;
+    }
+
+    public static void main(String[] args) {
+        SimpleWriter out = new SimpleWriter1L();
+        out.println("Hello World!");
+        out.close();
+    }
+
+}
